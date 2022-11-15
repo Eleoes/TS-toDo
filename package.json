@@ -1,0 +1,23 @@
+{
+  "name": "ts-todo",
+  "version": "1.0.0",
+  "description": "A beginner-level app to practice TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eleoes/TS-toDo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eleoes/TS-toDo/issues"
+  },
+  "homepage": "https://github.com/Eleoes/TS-toDo#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
